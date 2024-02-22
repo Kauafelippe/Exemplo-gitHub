@@ -27,3 +27,8 @@ Código (entre crases)
 
 Link: 
 [Site do IFC](https://ifc.edu.br/)
+
+Tabela:
+Número|Nome|Idade
+-|-|-
+1|Aluno|17
