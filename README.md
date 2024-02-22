@@ -1,6 +1,6 @@
 # Exemplo-gitHub
 Repositorio exemplo para aulas;
-### Subtitulo
+##Subtitulo
 Exemplo de criação de repositório no Github
 
 **Negrito**
